@@ -3,6 +3,6 @@
     "name": "Chrome Custom Devtool Fonts",
     "version": "1.0.0",
     "description": "",
-    "devtools_page": "devtools.html",
+    "devtools_page": "devtool.html",
     "manifest_version": 3
 }
